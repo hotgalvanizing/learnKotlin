@@ -1,3 +1,5 @@
+package haha
+
 var a : Boolean = true
 var b : Boolean = false
 

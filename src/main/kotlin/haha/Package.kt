@@ -1,3 +1,5 @@
+package haha
+
 import haha.KotlinChild as KotlinChild
 import Child as JavaChild
 

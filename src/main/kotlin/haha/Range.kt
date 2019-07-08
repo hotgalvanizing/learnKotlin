@@ -1,3 +1,5 @@
+package haha
+
 val range : IntRange = 0..1024
 val range1 : IntRange = 0 until 1024
 fun main() {

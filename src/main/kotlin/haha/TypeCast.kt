@@ -1,3 +1,8 @@
+package haha
+
+import Child
+import JavaPerson
+
 //智能类型转换
 
 //可空：类型后面加？
@@ -18,7 +23,7 @@ fun main() {
     val person1 : JavaPerson = JavaPerson()
 
 //    强制类型转换as加？，如果不能强转返回null
-    val child :Child? = person1 as? Child
+    val child : Child? = person1 as? Child
 
     print(child)
 

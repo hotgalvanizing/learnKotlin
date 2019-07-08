@@ -1,6 +1,8 @@
+package haha
+
 import kotlinx.coroutines.*
 
-//fun main(args: Array<String>) {
+//fun haha.main(args: Array<String>) {
 //    println("Start")
 //
 //    // 启动一个协程
